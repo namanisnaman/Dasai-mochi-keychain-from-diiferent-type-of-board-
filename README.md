@@ -13,3 +13,5 @@ So as we know, the most common way is to make it by using a small OLED and a sma
 RoboEyes-main.zip -  Arduino Nano and ardiuno uno ( you can download it and then go to Arduino IDE and go to Sketch, include library and select this zip. When this library is installed, then restart your IDE and go to File> example go to option, something like Flex Library and in it tap on the 2nd option, and then a new Arduino IDE window will appear where pre-written codes will be available; just select port and board and then upload it
 <img width="1536" height="863" alt="Screenshot 2026-06-22 011609" src="https://github.com/user-attachments/assets/23630021-f5b9-4876-ab9d-40d11cc10a67" />
 # Which code for which - esp 32 
+ESP32_OLED_EYE.ino is for esp 32; just upload it, and your dasai mochi is alive
+# Note: All 3 boards- Arduino Nano,ardiuno uno, esp 32  codes are compatible with 1.3 inch oled also
